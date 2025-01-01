@@ -1,8 +1,8 @@
 ## Hi there 👋
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning  c# to build web apps.
-- 👯 I’m looking to collaborate and network with dotnet community. 
+- 🌱 I’m currently learning  web techs to build web apps.
+- 👯 I’m looking to collaborate and network with developers community. 
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I'm a Youtube Addict 
 
